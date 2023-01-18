@@ -1,1 +1,1 @@
-printf project readme
+printf readme
